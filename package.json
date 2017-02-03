@@ -1,0 +1,8 @@
+{
+  "name": "Relais",
+  "version": "0.1.0",
+  "description": "Relay for REST",
+  "repository": "https://github.com/Kriegslustig/relais.git",
+  "author": "Luca Nils Schmid <npm@ls7.ch>",
+  "license": "MIT"
+}
